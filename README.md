@@ -1,12 +1,11 @@
-# Hi, friend :wave:
+## Hi, friend :wave: 
+### Fill in the asterisks to make the application work for the **TCP** and **UDP** protocol.
 
-## Fill in the asterisks to make the application work for the **TCP** and **UDP** protocol.
-
-## I also wrote an application and added some rules from the REST architectural style to the **HTTP** protocol.
+### I also wrote an application and added some rules from the REST architectural style to the **HTTP** protocol.
 
 
-# Tasks
-## NET
+## Tasks.
+### __NET__
 _**client.js**_
 ```js
 const *** = require('***');
@@ -62,7 +61,7 @@ server.listen(****, () => {
     console.log('server is listening');
 });
 ```
-## UDP
+## **UDP**
 _**client.js**_
 ​
 ```javascript
